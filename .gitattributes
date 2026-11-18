@@ -1,0 +1,7 @@
+* text=auto
+*.min.js -text
+*.bat text eol=crlf
+*.xlsx binary
+*.odt binary
+*.hwpx binary
+*.png binary

@@ -1,0 +1,16 @@
+# 의존성·산출물
+node_modules/
+dist/
+tools/out/
+
+# Vercel
+.vercel/
+
+# 환경 변수·비밀값 (이 프로젝트는 사용하지 않지만 실수 방지)
+.env
+.env.*
+
+# OS/에디터
+.DS_Store
+Thumbs.db
+*.log
